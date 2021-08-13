@@ -135,3 +135,12 @@ console.log(sum(2, 3));
 ```
 
 ---
+
+## image 2
+
+![monkey](https://cdn.pixabay.com/photo/2021/07/25/12/04/monkey-6491669_960_720.jpg "monkey 1")
+
+[monkey2]: https://cdn.pixabay.com/photo/2021/07/25/12/04/monkey-6491669_960_720.jpg "monkey 2"
+
+
+![monkey number 2][monkey2]
